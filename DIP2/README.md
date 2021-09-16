@@ -6,7 +6,9 @@
 
 - 要求编程实现，而不是手工处理
 
+![cat](https://github.com/shudorcl/D-I-P/blob/main/DIP2/cat.jpg)
 
+![table](https://github.com/shudorcl/D-I-P/blob/main/DIP2/table.jpg)
 
 思路：
 
@@ -15,6 +17,6 @@
 
 效果：
 
-
+![catable_hsv](https://github.com/shudorcl/D-I-P/blob/main/DIP2/catontable_hsv.png)
 
 
