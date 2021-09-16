@@ -12,6 +12,6 @@
 灰度图→二值化→边缘检测→手动标注生成字典
 最后按行按字符加入画布
 
-效果
+效果：
 
 ![dip1](https://github.com/shudorcl/D-I-P/blob/main/DIP1/dip1.png)
