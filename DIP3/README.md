@@ -8,9 +8,7 @@
 
 - 要求编程实现，而不是手工处理
 
-![wukong](https://github.com/shudorcl/D-I-P/blob/main/DIP3/wukong.jpg)
-
-![board2](https://github.com/shudorcl/D-I-P/blob/main/DIP3/board2.jpg)
+![wukong](https://i.loli.net/2021/09/23/hV9e8ru2m5lnLqI.jpg)
 
 思路：
 
@@ -22,6 +20,4 @@
 
 效果：
 
-![result](https://github.com/shudorcl/D-I-P/blob/main/DIP3/result.png)
-
-![result_final](https://github.com/shudorcl/D-I-P/blob/main/DIP3/result_final.png)
+效果图太大了！我又懒得压缩，所以说请您还是移步notebook里面看罢
