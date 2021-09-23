@@ -16,8 +16,12 @@
 
 手动找出海报墙四个点的坐标，以此截取ROI，运用透视变换转化图像，最后仿照上次实验的方法拼合在一起
 
+之后可以封装一个函数，如此反复……
+
 （参照资料-opencv 4.1中文官方文档中图像上的透视变换一节）
 
 效果：
 
 ![result](https://github.com/shudorcl/D-I-P/blob/main/DIP3/result.png)
+
+![result_final](https://github.com/shudorcl/D-I-P/blob/main/DIP3/result_final.png)
