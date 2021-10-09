@@ -8,11 +8,21 @@
 
 - 至少在“light.tif”“ dark.png”上进行测试
 
+![light](https://github.com/shudorcl/D-I-P/blob/main/DIP4/light.tif)
+
+![dark](https://github.com/shudorcl/D-I-P/blob/main/DIP4/dark.png)
+
 任务二：
 
 - 自己实现直方图均衡化，并和所选图像库中函数进行结果对比，并绘出变换前后的直方图。
 
 - 至少在如下图像上测试：school.png, baby.png, hill.jpg
+
+![school](https://github.com/shudorcl/D-I-P/blob/main/DIP4/school.png)
+
+![baby](https://github.com/shudorcl/D-I-P/blob/main/DIP4/baby.png)
+
+![hill](https://github.com/shudorcl/D-I-P/blob/main/DIP4/hill.jpg)
 
 ## 感谢
 
