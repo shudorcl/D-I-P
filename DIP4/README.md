@@ -8,8 +8,6 @@
 
 - 至少在“light.tif”“ dark.png”上进行测试
 
-![light](https://github.com/shudorcl/D-I-P/blob/main/DIP4/light.tif)
-
 ![dark](https://github.com/shudorcl/D-I-P/blob/main/DIP4/dark.png)
 
 任务二：

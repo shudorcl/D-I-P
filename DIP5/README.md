@@ -16,8 +16,6 @@
 
 ![mona](https://github.com/shudorcl/D-I-P/blob/main/DIP5/Mona.png)
 
-![star](https://github.com/shudorcl/D-I-P/blob/main/DIP5/star.tif)
-
 ## 感谢
 
 均值滤波的代码受到了[这里](https://craftofcoding.wordpress.com/2017/11/23/image-mean-filtering-i-in-python/)的启发，感谢这位作者
